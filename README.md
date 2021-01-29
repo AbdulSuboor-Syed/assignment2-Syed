@@ -25,4 +25,11 @@ I like it cause it is my **comfort food**.
     1. Vaccum
     2. Dishes
 
+* Get the trash out
+* Do the laundry
+* Iron clothes
+    * Shirts
+    * Pants
+
+
 
