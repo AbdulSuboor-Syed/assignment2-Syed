@@ -45,3 +45,11 @@ These are some of the places where one should visit when they visit Hyderabad  i
 | Charminar | 1 | $0.14|
 | Seven Tombs | 1 | $0.50|
 | Salarjang Mussem | 1 | $0.27 |
+
+---
+
+>If life were predictable it would cease to be life, and be without flavor<br>
+ >>*Eleanor Roosevelt*
+
+>When you reach the end of your rope, tie a knot in it and hang on.
+>> *Franklin D. Roosevelt*
