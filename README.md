@@ -53,3 +53,29 @@ These are some of the places where one should visit when they visit Hyderabad  i
 
 >When you reach the end of your rope, tie a knot in it and hang on.
 >> *Franklin D. Roosevelt*
+
+---
+
+
+>PHP is a general-purpose scripting language especially suited to web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994.<br>
+The PHP reference implementation is now produced by The PHP Group. PHP originally stood for Personal Home Page, but it now stands for the recursive initialism PHP: Hypertext Preprocessor.
+
+<https://en.wikipedia.org/wiki/PHP>
+
+```
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>PHP "Hello, World!" program</title>
+    </head>
+    <body>
+        <?php
+            echo '<p>Hello, World!</p>';
+        ?>
+    </body>
+</html>
+
+```
+
+<https://en.wikipedia.org/wiki/PHP>
