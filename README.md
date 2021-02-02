@@ -39,11 +39,11 @@ I like it cause it is my **comfort food**.
 
 These are some of the places where one should visit when they visit Hyderabad  in India as these locations are some of historical places and tourist attraction  there.
 
-| Location | Hours | Price |
-| --- | --- | ---:|
-| Golconda Fort | 2 | $0.14 |
-| Charminar | 1 | $0.14|
-| Seven Tombs | 1 | $0.50|
+| Location | Hours | Price |Image|
+| --- | --- | ---|---:|
+| Golconda Fort | 2 | $0.14 |![Golconda](ImagesFolder/Golconda.jpg)|
+| Charminar | 1 | $0.14|![Charminar](ImagesFolder/Charminar.jpg)
+| Seven Tombs | 1 | $0.50|![SevenTombs](ImagesFolder/SevenTombs.jpg)
 | Salarjang Mussem | 1 | $0.27 |
 
 ---
