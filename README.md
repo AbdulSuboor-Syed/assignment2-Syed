@@ -42,9 +42,9 @@ These are some of the places where one should visit when they visit Hyderabad  i
 | Location | Hours | Price |Image|
 | --- | --- | ---|---:|
 | Golconda Fort | 2 | $0.14 |![Golconda](ImagesFolder/GolcondaFort.jpg)|
-| Charminar | 1 | $0.14|![Charminar](ImagesFolder/Charminar.jpg)
-| Seven Tombs | 1 | $0.50|![SevenTombs](ImagesFolder/SevenTombs.jpg)
-| Salar Jung Museum | 1 | $0.27 |![SalarJungMuseum](Images/SalarJungMuseum.jpg)
+| Charminar | 1 | $0.14|![Charminar](ImagesFolder/Charminar.jpg)|
+| Seven Tombs | 1 | $0.50|![SevenTombs](ImagesFolder/SevenTombs.jpg)|
+| Salar Jung Museum | 1 | $0.27 |![SalarJungMuseum](ImagesFolder/SalarJungMuseum.jpg)|
 
 ---
 
